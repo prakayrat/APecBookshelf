@@ -4,4 +4,3 @@
 
 link ไป หนังสือเล่มต่าง ๆ    
 https://github.com/prakayrat?tab=repositories
-![Uploading eBook-วางจำหน่าย.png…]()
