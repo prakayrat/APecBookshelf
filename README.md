@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="top langs" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="streak stats" />
-</p>
+
 # [APecBookshelf](https://www.youtube.com/@APecBookshelf)
 
 link ไป หนังสือเล่มต่าง ๆ : https://github.com/prakayrat?tab=repositories
