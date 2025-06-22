@@ -19,6 +19,6 @@ link ไป หนังสือเล่มต่าง ๆ : https://github.c
 ![CanvaBook2025](https://github.com/user-attachments/assets/5cd8ead0-5e32-4804-a403-b24f905c2b07)
 
 
-แสดงสถิติการใช้งาน GitHub ของคุณแบบ Real-time ด้วยเครื่องมือจาก [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) ซึ่งเป็นที่นิยมอย่างมาก
+แสดงสถิติการใช้งาน GitHub ของคุณแบบ Real-time ด้วยเครื่องมือจาก [GitHub Readme Stats](https://github.com/prakayrat/github-readme-stats) ซึ่งเป็นที่นิยมอย่างมาก
 
 
