@@ -20,7 +20,5 @@ link ไป หนังสือเล่มต่าง ๆ : https://github.c
 
 
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak"/>
-</p>
+
 
