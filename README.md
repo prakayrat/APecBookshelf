@@ -15,7 +15,7 @@ www.youtube.com/@APecBookshelf
 
 หนังสือใหม่!!!!!     
 
-ออกวางจำหน่าย มิถุนายน 2568
+ออกวางจำหน่าย มิถุนายน 2568 ที่ meb
 
 ![CanvaBook2025](https://github.com/user-attachments/assets/5cd8ead0-5e32-4804-a403-b24f905c2b07)
 
