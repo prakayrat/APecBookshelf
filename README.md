@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm [Prakayrat]</h1>
-<h3 align="center"> [Independent Lecturer] from [Thailand]</h3>
+<h1 align="center">Hi 👋, I'm Prakayrat</h1>
+<h3 align="center"> Independent Lecturer from Thailand</h3>
 
 - 🔭 I’m currently working on **[แต่งหนังสือด้าน Tech, AI]**
 - 🌱 I’m currently learning **[Tech, AI]**
