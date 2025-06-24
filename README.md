@@ -11,7 +11,8 @@ www.youtube.com/@APecBookshelf
 และ link ไป หนังสือเล่มต่าง ๆ : https://github.com/prakayrat?tab=repositories
 
 ผลงานของผู้เขียนในช่วงปี 2566-2568
-![X-pec](https://github.com/user-attachments/assets/d2360c39-7a7d-43dd-a36d-b018c4b9e099)
+
+![X-pec](https://github.com/user-attachments/assets/a9f2f12d-e33e-4eb9-85a7-f7419c1adfcb)
 
 
 
